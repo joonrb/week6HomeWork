@@ -1,0 +1,77 @@
+body{
+    background-image: url("background.jpg");
+    margin: 0;
+}
+
+.titleText{
+    width:100%;
+    height:300px;
+    line-height:300px;
+    text-align: center;
+    background-color: Black;
+    margin: 300px 0px 300px 0px;
+}
+
+.title{
+    color: yellow;
+    font-size: 150px;
+    font-family: "Brush Script MT";
+}
+
+.block{
+    border-style: solid;
+    border-color: black;
+    height: 650px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 75px;
+    align-items: center;
+    
+}
+
+.pics{
+    height:650px;
+    width: 500px;
+}
+
+.texts{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    height: 200px;
+    width: 900px;
+    margin: auto;
+    margin-bottom: 250px;
+    align-items: center;
+    border-radius: 30%;
+}
+
+.pepsiLines{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+.colaLines{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+.timePass{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 250px;
+    align-items: center;
+    margin-top: 250px;
+}
+
+.threeDots{
+
+    height: 300px;
+    width: 500px;
+    margin-bottom: 250px;
+}
